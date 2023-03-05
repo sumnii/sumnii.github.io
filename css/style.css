@@ -6,11 +6,6 @@ body {
 	display: none;
 }
 
-.background {
-	position: absolute;
-	top: 0;
-}
-
 #header {
 	display: flex;
     flex-direction: row;
