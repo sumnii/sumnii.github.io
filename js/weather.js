@@ -1,4 +1,4 @@
-const API_KEY = config.apikey;
+const API_KEY = process.env.API_KEY;
 const weather = document.querySelector("#weather span:first-child");
 const city = document.querySelector("#weather span:last-child");
 
